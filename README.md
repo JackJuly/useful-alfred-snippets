@@ -8,6 +8,8 @@ In Alfred, the Snippets feature can be used to manage commonly used command-line
 
 You can check out more detailed introductions and other productivity tools on [my blog](https://www.ju1y.top/blogs/3).
 
+![Show](screenshots/show.gif)
+
 ![Screenshot](screenshots/02.png)
 
 ![Screenshot](screenshots/03.png)

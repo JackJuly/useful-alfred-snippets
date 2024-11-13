@@ -10,6 +10,8 @@
 
 可以在[我的博客](https://www.ju1y.top/blogs/3)中查看一些详细的介绍及其他效率工具的分享。
 
+![演示](screenshots/show.gif)
+
 ![截图](screenshots/02.png)
 
 ![截图](screenshots/03.png)
